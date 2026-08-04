@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
