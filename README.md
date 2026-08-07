@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0018-4sum) |
 | [0877-stone-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
