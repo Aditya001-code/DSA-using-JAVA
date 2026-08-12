@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0877-stone-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0877-stone-game) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
