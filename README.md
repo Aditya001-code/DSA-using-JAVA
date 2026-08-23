@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0049-group-anagrams) |
+| [1927-sum-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
