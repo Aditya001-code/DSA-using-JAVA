@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
