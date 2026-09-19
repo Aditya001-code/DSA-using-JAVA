@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0050-powx-n) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
