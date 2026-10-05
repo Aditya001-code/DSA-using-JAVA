@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -104,9 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0050-powx-n) |
 ## Geometry
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
