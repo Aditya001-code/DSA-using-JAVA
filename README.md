@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [0877-stone-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0877-stone-game) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
