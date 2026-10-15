@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0877-stone-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0049-group-anagrams) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
