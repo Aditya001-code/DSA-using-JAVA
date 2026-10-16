@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0560-subarray-sum-equals-k) |
 | [0877-stone-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0877-stone-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
