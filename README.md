@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/0058-length-of-last-word) |
 | [1927-sum-game](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya001-code/DSA-using-JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
